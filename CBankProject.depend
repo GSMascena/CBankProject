@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1610490789 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\bankdatabase.c
+	"bankDatabase.h"
+	"accountList.h"
+	"account.h"
+	"client.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1610483788 c:\users\user\desktop\=d\codigo bloco\cbankproject\bankdatabase.h
+	"client.h"
+
+1610490811 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BankDatabase.h"
+
+1610488161 c:\users\user\desktop\=d\codigo bloco\cbankproject\client.h
+
+1610480628 c:\users\user\desktop\=d\codigo bloco\cbankproject\clientlist.h
+	"client.h"
+
+1610488161 c:\users\user\desktop\=d\codigo bloco\cbankproject\accountlist.h
+	"account.h"
+
+1610488193 c:\users\user\desktop\=d\codigo bloco\cbankproject\account.h
+	"client.h"
+
