@@ -2,9 +2,15 @@
 #define BANKDATABASE_H_INCLUDED
 #include "client.h"
 
-int addClient(char* name, int age, char gender);
-void showClients();
+int createAccount(char* name, int age, char gender);
+char* showAccounts();
+int charCounter(char* text);
+
+int executeDeposit(int id, float money);
+int executeWithdraw(int id, float money);
+int executeTransfer(int id, float money, int destinyId);
+
 int locateFreeIndex();
-void removeClient(int id);
+void removeAccount(int id);
 
 #endif // BANKDATABASE_H_INCLUDED

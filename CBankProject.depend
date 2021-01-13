@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1610490789 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\bankdatabase.c
+1610566862 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\bankdatabase.c
 	"bankDatabase.h"
 	"accountList.h"
 	"account.h"
@@ -8,13 +8,14 @@
 	<stdlib.h>
 	<string.h>
 
-1610483788 c:\users\user\desktop\=d\codigo bloco\cbankproject\bankdatabase.h
+1610563890 c:\users\user\desktop\=d\codigo bloco\cbankproject\bankdatabase.h
 	"client.h"
 
-1610490811 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\main.c
+1610564217 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\main.c
 	<stdio.h>
 	<stdlib.h>
 	"BankDatabase.h"
+	"errorMessage.h"
 
 1610488161 c:\users\user\desktop\=d\codigo bloco\cbankproject\client.h
 
@@ -26,4 +27,12 @@
 
 1610488193 c:\users\user\desktop\=d\codigo bloco\cbankproject\account.h
 	"client.h"
+
+1610563338 source:c:\users\user\desktop\=d\codigo bloco\cbankproject\errormessage.c
+	"errorMessage.h"
+	<stdio.h>
+
+1610514682 c:\users\user\desktop\=d\codigo bloco\cbankproject\errormessages.h
+
+1610563338 c:\users\user\desktop\=d\codigo bloco\cbankproject\errormessage.h
 

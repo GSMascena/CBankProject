@@ -38,6 +38,10 @@
 		</Unit>
 		<Unit filename="bankDatabase.h" />
 		<Unit filename="client.h" />
+		<Unit filename="errorMessage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="errorMessages.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
